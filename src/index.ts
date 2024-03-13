@@ -34,7 +34,7 @@ export default {
 		 * @param {string} url the URL to send the request to
 		 */
 		const someHost = 'https://jsonplaceholder.typicode.com';
-		const url = someHost + '/todos/2';
+		const url = someHost + '/todos';
 
 		/**
 		 * gatherResponse awaits and returns a response body as a string.
